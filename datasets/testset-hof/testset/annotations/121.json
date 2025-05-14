@@ -1,0 +1,213 @@
+{
+    "info": {
+        "description": "Finger Segmentation Dataset",
+        "url": "",
+        "version": "1.0",
+        "year": 2025,
+        "contributor": "",
+        "date_created": "2025-05-14 18:32:12"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Unknown",
+            "url": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 384,
+            "height": 216,
+            "file_name": "121.jpg",
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2025-05-14 18:32:12"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 0,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "ddWQ3m0id17H8I7I8H7J4M4L4L3L5K4M3M3M3M3N0O3M4L3M3N2M2O1N3N2N2M3N1O2M3N1O2M2O2N1N2O3M2N2N1O1O1O1O1O1O001O2O0O100O10000010O01O010i_NWK[_1o4Y`NWKg_1^50O1O1O102M102M5K2O2M3M202L3M2N003N1N4L2N3M2N3M2N3M2N3M2N3M2N3M2N1O2N1O2O0O1O1N2O2N1O1O1O1O00001O1O1O1N2O1O1O001O1O1O2N1M3O1O1N2O1O2N1N2O1O1O2N1O2N1O001O1O002N1O2N1O1O1O001O3M2N100O1O1O001O00100O1O11OO001O001O1O10O0001O010O1O1O1O1O100O1N2O1O1O001O3M1O1O1O1O1O2N1O1O1O1O1N3N1O1O001O2M2O2LPjdd1"
+            },
+            "area": 19935,
+            "bbox": [
+                1851,
+                714,
+                205,
+                213
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_thumb_mask_1.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "QPT`27ae14K4M2O1O000O3M2N3M2O1N2O1N101O1O1N101N101N101O0O10001O1N101O00001N1000002N001O0O2O0000001O0O10001O0000001O00000O2O00000000001N1000000000O100000O10001O00000000000000000000000000000O100000000000000000000O100000O10000000000000000000000000000000O10000000000000O100000O1000000000000O100000000O1000O1000000000000000000000N200000O10O10000000000O10000000O10O100000000O0100000O100000000O100000O10O1000000000N110000000000O0100000O100000O0100000000O1000O1000O1000000O100000000O01000000000O1000000O10O1000O100000000O1000000O10O100000O100000000O1000001N1000O1O1O1O10O1000O10000000O10000O10001O000O1000000O100N2000000O1000O00100O010O1000000O10000O100O101N100O100O101N2N1O3M2N2N2O1N2J6M4M2N3L5J6K203K5J5J6KhoYn1"
+            },
+            "area": 22315,
+            "bbox": [
+                1525,
+                950,
+                347,
+                104
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_index_mask_2.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 2,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "]oi_23^e1:L6J4L3M3M3M3M3N1O2O000O2N2N2N101N2O1O001O001O010O01O01O001O10O02N1O001O00100O001O00001O010O001O00001O001O0010O01O001O010O001O0000010O0000001O00001O00000001O00000000010O00000000000000000O2O000000000000000000000O1000000000001O0001O00000000000000000000001O000000000000000000000000001O000000000000001O00000000000000000000000001O000001O000O1000000000001O000000000000001O0000000O1000001O000O10000000001O0000000000000O1000001O00000000001N10000000002N000000000000001O00000O100000000000001N100000001O00000000001O000O1000000000000000001O00000000O10O10001O000000000000000000000O1000000000000001O0000000000000000001O000000001O0O101O001O00001O001O0O2O1O1O1O1N2N2N2M3O1N2N2N3M2M6K3M3L4L3M6G7K8EmZNDZe12Qfjn1"
+            },
+            "area": 24346,
+            "bbox": [
+                1519,
+                1049,
+                343,
+                95
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_middle_mask_3.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        },
+        {
+            "id": 4,
+            "image_id": 1,
+            "category_id": 3,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "Wmd`2:]e16K3M4M2M2N3N1N2O1O1N2O1O10O0010O1000O1O1O1O010O01O01O001O00010O0001O01O010O10O00001O1O0010O01O001O1O1O1O002N0000001O001O00001O001O00000001O0001O0000001O0000000000000000001O000001O000001O000000000000000001O0001O000000001O0000000001O0000000001O010O000010O000001O0001O01O00001O001O0010O01O00001O0001O01O00100O001O000011N0001O00001O0010O000000000002OO00000000000010O0000000001O00000000000000000001O0000000000000000000000001O000000000000001N1000000000000010O0000000000000001O000000000000000000001O00000000000000001O0000000000000000000001O0000000000000001O0000000001O000000001O000001O01O000O10001N1000001O00001O001N2O001N2O1N2N3L3N2N3L5L3J7K4L3M6H]PSo1"
+            },
+            "area": 16651,
+            "bbox": [
+                1535,
+                1112,
+                322,
+                98
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_ring_mask_4.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        },
+        {
+            "id": 5,
+            "image_id": 1,
+            "category_id": 4,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "knbe27ae12N5K2N2O1N2O1O1O1N2O1O1O1O001O1O1O010O001O1O1O00010O01000O01000O01000O0100O010O02O0O0100O011N010O010O0001O01O0100O010O001O001O00010O001O010O0000001O00001O00001O00001O0000001O00001O00001O01O0001O000000001O00001O001O0001O0001O0000001O001O01O000000000001O0000011N00000001O0000001O000001O00000000001O01O0000001O0000000001O000001O00000000000001O0000000000000000000000000000000000001N1000000000000000000001O00000000000000000000000000000000000001O0001O0000000000001O0000001O00001O001O1O1O2N3M1O3M1O1O2N2N2N2N2M2O2N2N2N1N3M2N3N2MViYm1"
+            },
+            "area": 11042,
+            "bbox": [
+                1629,
+                1184,
+                262,
+                84
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_pinky_mask_5.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        },
+        {
+            "id": 6,
+            "image_id": 1,
+            "category_id": 5,
+            "segmentation": {
+                "size": [
+                    216,
+                    384
+                ],
+                "counts": "Ui^o23ee13M2O1N1O2O0O1O100O2O0O1O100O2O0O101O0O100O2O0O2O1N1O101N2n]NZOo^1f0n`N^OeNFm^1n0[bN_O`NLS_1g0XbNA`NMV_1d0TbNE_NN\\_1>RbNG_NN]_1`0naNE`N0`_1>kaNFbNNb_1`0faNT1X^1RO`aNR1W\\1VMedNk1nNS1Z\\1YMcdNh1jNT1b\\1WMadNi1hNS1f\\1VM`dNj1eNR1j\\1WM^dNn1YNU1X]1oL\\dNc5d[1^JZdNd5d[1^JZdNc5f[1_JUdNe5i[1^JTdNd5k[1^JQdNe5n[1[JRdNe5m[1cJicNb5T\\1eJccN_5\\\\1gJ]cN]5_\\1T2K3M1N2O1O1N2O2M3N2N1N2O001O2M2O2N1N2O1N2O1O1N101O2N000O2OO1000O101O0O01000OO2O1O010O10O01000O01000O10O10N2000O10000O10O1000O10000000O01000000O1000O0100000000O100000000O100000000O10000000000O10000000000O1000000O10000O1000000O100000000O10001O000000000O100000000O100O2O00001N10000000002N0O2O00000O10001O0O10001O000O10000000000N110000000O10000O010000000O1000O10000N10100O100O1O010001O1O000O2O1O2N1N2O2N1O2M2O2N1O2N2N1N2O1O002N2N1N3N1O1O1O3L2O2N1O1O1O1O001O0O2O1O1O1O0O2O1O001O1O001O0O101O001O001O0O2O001O010O0100O1O101N100O10O01O01O0O3M1N3M2L3M40NH9E;J6I6I7H9F9F;E;D<E;\\Of0\\Of0@g0VOb0jN_eW_1"
+            },
+            "area": 88753,
+            "bbox": [
+                1817,
+                918,
+                342,
+                345
+            ],
+            "iscrowd": 0,
+            "mask_file": "masks/121_person_001_LEFT_palm_mask_6.png",
+            "person_id": "person_001",
+            "handedness": "LEFT"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "thumb",
+            "supercategory": "finger"
+        },
+        {
+            "id": 1,
+            "name": "index",
+            "supercategory": "finger"
+        },
+        {
+            "id": 2,
+            "name": "middle",
+            "supercategory": "finger"
+        },
+        {
+            "id": 3,
+            "name": "ring",
+            "supercategory": "finger"
+        },
+        {
+            "id": 4,
+            "name": "pinky",
+            "supercategory": "finger"
+        },
+        {
+            "id": 5,
+            "name": "palm",
+            "supercategory": "finger"
+        }
+    ],
+    "hand_metadata": {
+        "default_person_id": "person_001",
+        "default_handedness": "LEFT"
+    },
+    "mask_files": {
+        "1": "121_person_001_LEFT_thumb_mask_1.png",
+        "2": "121_person_001_LEFT_index_mask_2.png",
+        "3": "121_person_001_LEFT_middle_mask_3.png",
+        "4": "121_person_001_LEFT_ring_mask_4.png",
+        "5": "121_person_001_LEFT_pinky_mask_5.png",
+        "6": "121_person_001_LEFT_palm_mask_6.png"
+    }
+}
