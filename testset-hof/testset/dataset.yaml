@@ -1,0 +1,10 @@
+# YOLO dataset config file
+path: /home/kamyar/research/projects/hand_finger_seg/testset-hof/testset
+train: .
+val: .
+test: .
+
+# Classes
+names:
+  0: bbox
+  1: keypoint
